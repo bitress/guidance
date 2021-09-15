@@ -1,0 +1,16 @@
+[31-Aug-2021 15:28:45 Asia/Manila] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home2/guidanc1/public_html/actions/addStudent.php on line 5
+[31-Aug-2021 07:29:28 UTC] PHP Warning:  include_once(./PHP/all.inc.php): failed to open stream: No such file or directory in /home2/guidanc1/public_html/actions/addStudent.php on line 3
+[31-Aug-2021 07:29:28 UTC] PHP Warning:  include_once(): Failed opening './PHP/all.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/guidanc1/public_html/actions/addStudent.php on line 3
+[31-Aug-2021 07:29:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/guidanc1/public_html/actions/addStudent.php on line 18
+[31-Aug-2021 07:30:37 UTC] PHP Warning:  include_once(./PHP/all.inc.php): failed to open stream: No such file or directory in /home2/guidanc1/public_html/actions/addStudent.php on line 3
+[31-Aug-2021 07:30:37 UTC] PHP Warning:  include_once(): Failed opening './PHP/all.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/guidanc1/public_html/actions/addStudent.php on line 3
+[31-Aug-2021 07:30:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/guidanc1/public_html/actions/addStudent.php on line 18
+[31-Aug-2021 16:17:03 Asia/Manila] PHP Warning:  unlink(../files/101114080055/Minecraft.mp4): No such file or directory in /home2/guidanc1/public_html/actions/remove_file.php on line 14
+[31-Aug-2021 16:35:11 Asia/Manila] PHP Warning:  unlink(../files/101114080055/Minecraft.mp4): No such file or directory in /home2/guidanc1/public_html/actions/remove_file.php on line 14
+[31-Aug-2021 16:36:30 Asia/Manila] PHP Warning:  unlink(../files/101114080055/Minecraft.mp4): No such file or directory in /home2/guidanc1/public_html/actions/remove_file.php on line 14
+[31-Aug-2021 16:37:23 Asia/Manila] PHP Warning:  unlink(../files/101114080055/Minecraft.mp4): No such file or directory in /home2/guidanc1/public_html/actions/remove_file.php on line 14
+[31-Aug-2021 16:38:06 Asia/Manila] PHP Warning:  unlink(../files/101114080055/Minecraft.mp4): No such file or directory in /home2/guidanc1/public_html/actions/remove_file.php on line 14
+[31-Aug-2021 16:38:16 Asia/Manila] PHP Warning:  unlink(../files/101114080055/Minecraft.mp4): No such file or directory in /home2/guidanc1/public_html/actions/remove_file.php on line 14
+[31-Aug-2021 16:38:25 Asia/Manila] PHP Warning:  unlink(../files/101114080055/Minecraft.mp4): No such file or directory in /home2/guidanc1/public_html/actions/remove_file.php on line 14
+[31-Aug-2021 16:38:38 Asia/Manila] PHP Warning:  unlink(../files/101114080055/Minecraft.mp4): No such file or directory in /home2/guidanc1/public_html/actions/remove_file.php on line 14
+[09-Sep-2021 10:55:38 Asia/Manila] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/guidanc1/public_html/actions/students.datatables.php on line 69

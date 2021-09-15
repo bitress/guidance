@@ -1,0 +1,41 @@
+[02-Sep-2021 21:43:50 Asia/Manila] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php:3820) in /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php:541
+Stack trace:
+#0 /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php(2097): FPDF->Error('Some data has a...')
+#1 /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php(1997): FPDF->_checkoutput()
+#2 /home2/guidanc1/public_html/admin/report.php(547): FPDF->Output()
+#3 {main}
+  thrown in /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php on line 541
+[02-Sep-2021 21:44:03 Asia/Manila] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php:3820) in /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php:541
+Stack trace:
+#0 /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php(2097): FPDF->Error('Some data has a...')
+#1 /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php(1997): FPDF->_checkoutput()
+#2 /home2/guidanc1/public_html/admin/report.php(547): FPDF->Output()
+#3 {main}
+  thrown in /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php on line 541
+[02-Sep-2021 21:44:21 Asia/Manila] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php:3820) in /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php:541
+Stack trace:
+#0 /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php(2097): FPDF->Error('Some data has a...')
+#1 /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php(1997): FPDF->_checkoutput()
+#2 /home2/guidanc1/public_html/admin/report.php(375): FPDF->Output()
+#3 {main}
+  thrown in /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php on line 541
+[02-Sep-2021 21:44:50 Asia/Manila] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php:3820) in /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php:541
+Stack trace:
+#0 /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php(2097): FPDF->Error('Some data has a...')
+#1 /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php(1997): FPDF->_checkoutput()
+#2 /home2/guidanc1/public_html/admin/report.php(143): FPDF->Output()
+#3 {main}
+  thrown in /home2/guidanc1/public_html/vendor/fpdf184/fpdf.php on line 541
+[09-Sep-2021 03:09:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/guidanc1/public_html/admin/report.php on line 769
+[12-Sep-2021 11:07:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::date() in /home2/guidanc1/public_html/admin/report.php:828
+Stack trace:
+#0 {main}
+  thrown in /home2/guidanc1/public_html/admin/report.php on line 828
+[12-Sep-2021 11:07:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::date() in /home2/guidanc1/public_html/admin/report.php:828
+Stack trace:
+#0 {main}
+  thrown in /home2/guidanc1/public_html/admin/report.php on line 828
+[12-Sep-2021 11:08:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::date() in /home2/guidanc1/public_html/admin/report.php:828
+Stack trace:
+#0 {main}
+  thrown in /home2/guidanc1/public_html/admin/report.php on line 828
